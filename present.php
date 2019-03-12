@@ -16,9 +16,7 @@
             'Prènom' => 'DJIBRIL',
             'Nom' => 'BA',
             'Adresse' => '1232 Nimzath 1 Pikine',
-            'Email' => 'djibba16084@gmail.com',
-            'Profession ' => 'Etudiant',
-            'Tel' => '77-834-99-07',
+            'Profession' => 'Etudiant'
         ) 
     ?>
         <a href="IMG-20181121-WA0016.jpg"><img src="IMG-20181121-WA0016.jpg" title = "Cliquez"></a>
